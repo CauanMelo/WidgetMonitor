@@ -1,0 +1,7 @@
+﻿PySide6-Essentials
+psutil
+nvidia-ml-py
+pywin32
+pythonnet
+pyinstaller
+qrcode

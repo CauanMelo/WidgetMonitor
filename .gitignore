@@ -1,0 +1,14 @@
+﻿.venv/
+build*/
+dist*/
+__pycache__/
+*.pyc
+*.spec
+installer/*.exe
+test_*.png
+.claude/
+lib/
+build_versao.txt
+tools/*.exe
+
+logs/
